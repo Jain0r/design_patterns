@@ -1,0 +1,14 @@
+D:\ciclo2021-2\DS\patronesDS\ds\ds\bin\Debug\netcoreapp3.1\ds.exe
+D:\ciclo2021-2\DS\patronesDS\ds\ds\bin\Debug\netcoreapp3.1\ds.deps.json
+D:\ciclo2021-2\DS\patronesDS\ds\ds\bin\Debug\netcoreapp3.1\ds.runtimeconfig.json
+D:\ciclo2021-2\DS\patronesDS\ds\ds\bin\Debug\netcoreapp3.1\ds.runtimeconfig.dev.json
+D:\ciclo2021-2\DS\patronesDS\ds\ds\bin\Debug\netcoreapp3.1\ds.dll
+D:\ciclo2021-2\DS\patronesDS\ds\ds\bin\Debug\netcoreapp3.1\ds.pdb
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.csproj.AssemblyReference.cache
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.AssemblyInfoInputs.cache
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.AssemblyInfo.cs
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.csproj.CoreCompileInputs.cache
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.dll
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.pdb
+D:\ciclo2021-2\DS\patronesDS\ds\ds\obj\Debug\netcoreapp3.1\ds.genruntimeconfig.cache

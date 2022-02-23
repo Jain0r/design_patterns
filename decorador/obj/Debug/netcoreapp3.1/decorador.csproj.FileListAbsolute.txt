@@ -1,0 +1,14 @@
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\bin\Debug\netcoreapp3.1\decorador.exe
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\bin\Debug\netcoreapp3.1\decorador.deps.json
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\bin\Debug\netcoreapp3.1\decorador.runtimeconfig.json
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\bin\Debug\netcoreapp3.1\decorador.runtimeconfig.dev.json
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\bin\Debug\netcoreapp3.1\decorador.dll
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\bin\Debug\netcoreapp3.1\decorador.pdb
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.csproj.AssemblyReference.cache
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.AssemblyInfoInputs.cache
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.AssemblyInfo.cs
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.csproj.CoreCompileInputs.cache
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.dll
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.pdb
+D:\ciclo2021-2\DS\patronesDS\ds\decorador\obj\Debug\netcoreapp3.1\decorador.genruntimeconfig.cache
