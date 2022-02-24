@@ -7,5 +7,6 @@ namespace decorador
     interface I_Inventario
     {
         string adquirirItem();
+
     }
 }
