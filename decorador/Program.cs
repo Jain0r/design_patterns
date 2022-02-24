@@ -14,7 +14,8 @@ namespace decorador
 
             Console.WriteLine(instanciaComponente.adquirirItem());
 
-            instanciaComponente.VenderItem();
+
+            //instanciaComponente.VenderItem();
         }
     }
 }
