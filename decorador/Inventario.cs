@@ -6,7 +6,7 @@ namespace decorador
 {
     class Inventario : I_Inventario
     {
-        //private string arma = "Clasic";
+        public string arma = "Clasic";
 
         public Inventario()
         {
@@ -26,7 +26,7 @@ namespace decorador
         //METODOS DE LA INTERFAZ
         public string adquirirItem()
         {
-            return "clasic";
+            return arma;
         }
     }
 }

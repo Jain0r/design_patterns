@@ -6,6 +6,6 @@ namespace decorador
 {
     interface I_Inventario
     {
-        string adquirirItem(Item item);
+        string adquirirItem();
     }
 }

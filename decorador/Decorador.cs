@@ -13,7 +13,7 @@ namespace decorador
             decoramosA = componente;
         }
 
-        public string adquirirItem()
+        virtual public string adquirirItem()
         {
             return decoramosA.adquirirItem();
         }

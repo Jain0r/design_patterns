@@ -6,5 +6,9 @@ namespace decorador
 {
     class Item
     {
+        string nombre;
+        int tipo;
+        string jugador;
+
     }
 }

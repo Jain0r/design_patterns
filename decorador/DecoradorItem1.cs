@@ -19,9 +19,10 @@ namespace decorador
         //    return "ghost";
         //}
 
-        new public string adquirirItem()
+        override public string adquirirItem()
         {
             DecoroConcreto();
+            
             return "ghost";
         }
 

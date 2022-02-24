@@ -13,16 +13,15 @@ namespace decorador
         //    return base.adquirirItem() + "vandal";
         //}
 
-        public new string adquirirItem()
+        override public string adquirirItem()
         {
-            DecoroConcreto();
-            //return "";
-            return base.adquirirItem() + "vandal";
+            DecoroConcreto2();
+            return base.adquirirItem() + " y vandal";
         }
 
-        public void DecoroConcreto()
+        public void DecoroConcreto2()
         {
-            Console.WriteLine("Decoro item secundario");
+            Console.WriteLine("item 2 decorado");
         }
     }
 }
