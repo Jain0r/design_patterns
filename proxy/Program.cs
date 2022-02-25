@@ -6,7 +6,14 @@ namespace proxy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CuentaDatos cuenta = new CuentaDatos("Aeaman", 1, 100);
+
+            ICuenta proxyCta = new CuentaProxy(new cuentaBancoA());
+
+            proxyCta.depositar(cuenta,50);
+            proxyCta.retirar(cuenta, 100);
+            proxyCta.mostrarCantidad(cuenta);
+
         }
     }
 }

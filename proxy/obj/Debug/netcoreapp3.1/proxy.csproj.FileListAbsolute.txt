@@ -1,0 +1,14 @@
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\bin\Debug\netcoreapp3.1\proxy.exe
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\bin\Debug\netcoreapp3.1\proxy.deps.json
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\bin\Debug\netcoreapp3.1\proxy.runtimeconfig.json
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\bin\Debug\netcoreapp3.1\proxy.runtimeconfig.dev.json
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\bin\Debug\netcoreapp3.1\proxy.dll
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\bin\Debug\netcoreapp3.1\proxy.pdb
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.csproj.AssemblyReference.cache
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.AssemblyInfoInputs.cache
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.AssemblyInfo.cs
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.csproj.CoreCompileInputs.cache
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.dll
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.pdb
+D:\ciclo2021-2\DS\patronesDS\ds\proxy\obj\Debug\netcoreapp3.1\proxy.genruntimeconfig.cache
